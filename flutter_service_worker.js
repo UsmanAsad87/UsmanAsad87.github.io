@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1a6441dc517535fe73c9515127d56c99",
+  "assets/AssetManifest.json": "3209bcc2430e1565f40160e65def5a70",
 "assets/assets/AssetManifest.json": "c39ce65838e0b47108d258da4b382b6e",
 "assets/assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/assets/images/1.png": "9f5e768e84df453f7f30e75fc12b0d45",
@@ -18,7 +18,7 @@ const RESOURCES = {
 "assets/assets/images/9.png": "e89ff2242576ca9019ce523753544782",
 "assets/assets/images/boiler.png": "b6cf252bf5c9287e610683e73b3b4944",
 "assets/assets/images/ChatGPT.png": "e4f9e15a9f16bb862980229887919cb7",
-"assets/assets/images/Chico.gif": "d4f749874698790c3be8f338aee9bf6e",
+"assets/assets/images/Chico_App.gif": "d4f749874698790c3be8f338aee9bf6e",
 "assets/assets/images/Groupie.gif": "504926b7de6b2dbb8a8e4aeed101106d",
 "assets/assets/images/Melanated_Audacity.gif": "94c2a842bb04edb31fe71193bc80bf28",
 "assets/assets/images/pic1.jpg": "0030407a1d28d8a98db220911a89235b",
@@ -43,9 +43,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "813a9461686ee15ea781905b41bdb5c4",
-"/": "813a9461686ee15ea781905b41bdb5c4",
-"main.dart.js": "33ba4d2654ac885a0cbee2dd85e821c0",
+"index.html": "59fac3ab00003e85ff7a9ff5ba2c2f08",
+"/": "59fac3ab00003e85ff7a9ff5ba2c2f08",
+"main.dart.js": "7e38842e37233353bba435df9d2ffe8d",
 "manifest.json": "87bab25217195cfb19c8062590f64e9c",
 "version.json": "9e2d27f90430cf00776f02815f2f8576"
 };
