@@ -63352,7 +63352,7 @@ n=h.qp(new A.wW(g),1)
 o=A.au(g,a*0.1,g)
 q=a*0.86
 r=a0-100
-r=h.qp(A.c9(A.a([new A.uc("0.3","Some Things I've Built",g),A.au(g,p,g),A.lJ("images/ChatGPT.png",new A.a7o(h),u.E,"ChatGPT Flutter",f,e,"OpenAI"),A.lJ("images/Groupie.gif",new A.a7p(h),u._,"Group Chat App",e,f,d),A.lJ("images/boiler.png",new A.a7b(h),u.h,"Boiler",e,f,d),A.lJ("images/Melanated_Audacity.gif",new A.a7c(h),u.F,"Task Management App",e,f,d),A.lJ("images/PlantApp.png",new A.a7d(h),u.P,"The Plant App",e,f,""),A.lJ("images/chico.gif",new A.a7e(h),u.B,"Mirror",e,f,d),A.lJ("images/property_finder.gif",new A.a7f(h),u.l,"Property Finder",e,f,d),A.lJ("images/Todeoy.png",new A.a7g(h),u.t,"ToDoey",e,f,"SqfLite"),new A.uc("0.4","Open Source Project",g),A.au(g,p,g),A.aE(g,A.c9(A.a([A.cm(A.a([new A.fR("images/2.png",g),new A.fR("images/7.png",g),new A.fR("images/8.png",g),new A.fR("images/5.png",g)],a2),B.r,B.aD,B.J),A.au(g,p,g),A.cm(A.a([new A.aN("Cash Driver",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Instyl",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("BMI",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Court Counter",16,A.a6(102,255,255,255),1.75,B.v,g)],a2),B.r,B.aD,B.J)],a2),B.r,B.y),B.h,g,g,g,g,q,g,g,g,g,r),A.aE(g,A.c9(A.a([A.cm(A.a([new A.fR("images/4.png",g),new A.fR("images/6.png",g),new A.fR("images/1.png",g),new A.fR("images/3.png",g)],a2),B.r,B.aD,B.J),A.au(g,p,g),A.cm(A.a([new A.aN("Connect",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Currency Converter",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Login",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Chatty",16,A.a6(102,255,255,255),1.75,B.v,g)],a2),B.r,B.aD,B.J)],a2),B.r,B.y),B.h,g,g,g,g,q,g,g,g,g,r)],a2),B.r,B.y),2)
+r=h.qp(A.c9(A.a([new A.uc("0.3","Some Things I've Built",g),A.au(g,p,g),A.lJ("assets/images/ChatGPT.png",new A.a7o(h),u.E,"ChatGPT Flutter",f,e,"OpenAI"),A.lJ("assets/images/Groupie.gif",new A.a7p(h),u._,"Group Chat App",e,f,d),A.lJ("assets/images/boiler.png",new A.a7b(h),u.h,"Boiler",e,f,d),A.lJ("assets/images/Melanated_Audacity.gif",new A.a7c(h),u.F,"Task Management App",e,f,d),A.lJ("assets/images/PlantApp.png",new A.a7d(h),u.P,"The Plant App",e,f,""),A.lJ("assets/images/chico.gif",new A.a7e(h),u.B,"Mirror",e,f,d),A.lJ("assets/images/property_finder.gif",new A.a7f(h),u.l,"Property Finder",e,f,d),A.lJ("assets/images/Todeoy.png",new A.a7g(h),u.t,"ToDoey",e,f,"SqfLite"),new A.uc("0.4","Open Source Project",g),A.au(g,p,g),A.aE(g,A.c9(A.a([A.cm(A.a([new A.fR("assets/images/2.png",g),new A.fR("assets/images/7.png",g),new A.fR("assets/images/8.png",g),new A.fR("assets/images/5.png",g)],a2),B.r,B.aD,B.J),A.au(g,p,g),A.cm(A.a([new A.aN("Cash Driver",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Instyl",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("BMI",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Court Counter",16,A.a6(102,255,255,255),1.75,B.v,g)],a2),B.r,B.aD,B.J)],a2),B.r,B.y),B.h,g,g,g,g,q,g,g,g,g,r),A.aE(g,A.c9(A.a([A.cm(A.a([new A.fR("assets/images/4.png",g),new A.fR("assets/images/6.png",g),new A.fR("assets/images/1.png",g),new A.fR("assets/images/3.png",g)],a2),B.r,B.aD,B.J),A.au(g,p,g),A.cm(A.a([new A.aN("Connect",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Currency Converter",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Login",16,A.a6(102,255,255,255),1.75,B.v,g),new A.aN("Chatty",16,A.a6(102,255,255,255),1.75,B.v,g)],a2),B.r,B.aD,B.J)],a2),B.r,B.y),B.h,g,g,g,g,q,g,g,g,g,r)],a2),B.r,B.y),2)
 q=a6.K(c).f
 p=A.kN(B.bk,A.a([A.di("Although I'm currently looking for opportunities, my inbox is \nalways open. Whether you have a question or just want to say hi, I'll try my \nbest to get back to you!",g,g,A.cy(g,g,A.a6(102,255,255,255),g,g,g,g,g,g,g,g,17,g,g,g,g,g,!0,g,0.75,g,g,g,g,g,g),B.cb,g)],a2))
 i=A.fs(6)
@@ -63483,14 +63483,14 @@ d=A.au(b6,g,b6)
 c=h*0.04
 b=A.cm(A.a([new A.aN("03.",20,new A.r(c2),0.1,B.v,b6),A.au(b6,b6,12),new A.aN("Some Things I've Built",26,new A.r(c0),0.1,B.v,b6),A.au(b6,b6,d6.K(c9).f.a.a*0.01),A.aE(b6,b6,B.h,new A.r(c3),b6,b6,b6,1.1,b6,b6,b6,b6,c)],d5),B.r,B.y,B.J)
 a=A.au(b6,g,b6)
-a0=A.lK("images/ChatGPT.png",new A.a8m(c8),u.E,"ChatGPT Flutter",c6,c5,"OpenAI")
-a1=A.lK("images/Groupie.gif",new A.a8r(c8),u._,"Group Chat App",c5,c6,c7)
-a2=A.lK("images/boiler.png",new A.a8s(c8),u.h,"Boiler",c5,c6,c7)
-a3=A.lK("images/Melanated_Audacity.gif",new A.a8t(c8),u.F,"Task Management App",c5,c6,c7)
-a4=A.lK("images/PlantApp.png",new A.a8u(c8),u.P,"The Plant App",c5,c6,"")
-a5=A.lK("images/chico.gif",new A.a8v(c8),u.B,"Mirror",c5,c6,c7)
-a6=A.lK("images/property_finder.gif",new A.a8w(c8),u.l,"Property Finder",c5,c6,c7)
-a7=A.lK("images/Todeoy.png",new A.a8x(c8),u.t,"ToDoey",c5,c6,"SqfLite")
+a0=A.lK("assets/images/ChatGPT.png",new A.a8m(c8),u.E,"ChatGPT Flutter",c6,c5,"OpenAI")
+a1=A.lK("assets/images/Groupie.gif",new A.a8r(c8),u._,"Group Chat App",c5,c6,c7)
+a2=A.lK("assets/images/boiler.png",new A.a8s(c8),u.h,"Boiler",c5,c6,c7)
+a3=A.lK("assets/images/Melanated_Audacity.gif",new A.a8t(c8),u.F,"Task Management App",c5,c6,c7)
+a4=A.lK("assets/images/PlantApp.png",new A.a8u(c8),u.P,"The Plant App",c5,c6,"")
+a5=A.lK("assets/images/chico.gif",new A.a8v(c8),u.B,"Mirror",c5,c6,c7)
+a6=A.lK("assets/images/property_finder.gif",new A.a8w(c8),u.l,"Property Finder",c5,c6,c7)
+a7=A.lK("assets/images/Todeoy.png",new A.a8x(c8),u.t,"ToDoey",c5,c6,"SqfLite")
 a8=A.au(b6,30,b6)
 c=A.cm(A.a([new A.aN("04.",20,new A.r(c2),0.1,B.v,b6),A.au(b6,b6,12),new A.aN("Some Other projects",26,new A.r(c0),0.1,B.v,b6),A.au(b6,b6,d6.K(c9).f.a.a*0.01),A.aE(b6,b6,B.h,new A.r(c3),b6,b6,b6,1.1,b6,b6,b6,b6,c)],d5),B.r,B.y,B.J)
 a9=A.au(b6,30,b6)
@@ -63538,7 +63538,7 @@ A.a8x.prototype={
 $0(){this.a.bY("https://github.com/UsmanAsad87/ToDos")},
 $S:2}
 A.a8q.prototype={
-$2(a,b){var s=null,r=B.f.cW(b,2)===0,q=A.aE(s,new A.br(B.m6,A.tE(B.bN,s,new A.hi("images/"+(b+1)+".png"),s),s),B.h,B.O,s,s,s,s,s,s,s,s,s),p=r?s:0,o=r?0:s,n=A.a6(B.c.b3(178.5),0,0,0)
+$2(a,b){var s=null,r=B.f.cW(b,2)===0,q=A.aE(s,new A.br(B.m6,A.tE(B.bN,s,new A.hi("assets/images/"+(b+1)+".png"),s),s),B.h,B.O,s,s,s,s,s,s,s,s,s),p=r?s:0,o=r?0:s,n=A.a6(B.c.b3(178.5),0,0,0)
 return A.aE(s,A.fc(B.ao,A.a([q,A.f5(s,A.aE(B.kL,new A.aN(this.a.d[b],12,B.i,1.75,B.aA,s),B.h,n,s,s,s,s,s,new A.aF(5,5,5,5),s,s,s),s,s,o,p,80,s)],t.p),B.al),B.h,s,s,s,s,s,s,s,s,s,s)},
 $S:375}
 A.a8y.prototype={
